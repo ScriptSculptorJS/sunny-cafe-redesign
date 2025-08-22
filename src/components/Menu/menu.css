@@ -1,0 +1,26 @@
+.card {
+  margin-bottom: 10px;
+  z-index: 0;
+  width: 500px;
+}
+
+.card-header {
+  font-size: 20px;
+}
+
+.card-body p {
+  font-size: 15px;
+  margin-bottom: 10px;
+}
+
+@media (max-width: 625px) {
+  .card {
+    width: 400px;
+  }
+}
+
+@media (max-width: 420px) {
+  .card {
+    width: 300px;
+  }
+}

@@ -1,0 +1,27 @@
+#headerContainer {
+  background-color: lavender;
+  padding: 0px 12px 0px;
+  border-radius: 8px 8px 0px 0px;
+  border-width: 1px 1px 0px 1px;
+  border-color: rgba(0, 0, 0, 0.175);
+  border-style: solid;
+}
+
+#heroImage {
+  height: 15em;
+}
+
+#logo {
+  color: #ffcb3c;
+  text-shadow: 1px 1px 1px black;
+  font-weight: bolder;
+  font-size: 40px;
+  margin-top: -25px;
+  padding-bottom: 15px;
+}
+
+@media (max-width: 625px) {
+  #headerContainer{
+    border: none;
+  }
+}

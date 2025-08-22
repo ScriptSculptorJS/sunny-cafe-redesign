@@ -1,0 +1,12 @@
+p {
+  color: #444444;
+}
+
+span {
+  font-weight: bold;
+  color: #555555;
+}
+
+.hours {
+  margin-top: 25px;
+}

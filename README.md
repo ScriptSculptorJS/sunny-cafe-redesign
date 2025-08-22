@@ -1,8 +1,8 @@
 # [Sunny Cafe Redesign](https://scriptsculptorjs.github.io/sunny-cafe-redesign/)
+This project demonstrates responsive design for a fictional coffee shop, Sunny Café.
 
 ![desktop-after-redesign](https://github.com/user-attachments/assets/b9ba0d6e-583e-4236-af62-ab3788d44b60)
 
-A responsive demo website for a fictional coffee shop, Sunny Café.
 This project was built to showcase front-end development skills with HTML, CSS, and responsive design. It highlights layout flexibility, mobile-first design, and realistic content (About, Menu, Contact).
 
 
